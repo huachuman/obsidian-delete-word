@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-delete-word",
+    "name": "Delete Word",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Adds commands to delete words forward and backward",
+    "author": "Your Name",
+    "isDesktopOnly": false
+}
